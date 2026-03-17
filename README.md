@@ -1,7 +1,7 @@
 Food Ordering System - CRUD Operation
 A complete food ordering system with full CRUD (Create, Read, Update, Delete) functionality. This project demonstrates a modern web application using HTML, CSS, JavaScript for the frontend, and PHP with MySQL for the backend API.
 
-https://via.placeholder.com/800x400?text=Food+Ordering+CRUD+Dashboard
+http://localhost/fos/ - for a dashboard and a workflow
 
  ✨Features✨
 Create - Add new food items with name, price, category, and description
